@@ -1,4 +1,9 @@
 
+
+![Login page — Mozilla Firefox 21-01-2025 14_29_57](https://github.com/user-attachments/assets/10e5927e-4be1-40f4-9404-6e3f68735fbd)
+
+
+
 This project is a simple login page built using HTML, CSS, and JavaScript. The page allows users to enter their username and password, and it includes basic form validation using JavaScript to ensure that the fields are filled out correctly.
 Features-
 
