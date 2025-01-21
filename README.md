@@ -1,4 +1,3 @@
-<h1>Login Page<h1>
 
 This project is a simple login page built using HTML, CSS, and JavaScript. The page allows users to enter their username and password, and it includes basic form validation using JavaScript to ensure that the fields are filled out correctly.
 Features:
